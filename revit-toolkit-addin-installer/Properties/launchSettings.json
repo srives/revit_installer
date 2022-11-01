@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "revit-toolkit-addin-installer": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbose --deploy-as-admin hisler"
+    }
+  }
+}
